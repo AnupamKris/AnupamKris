@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anupam Krishna</h1>
 <h3 align="center">A passionate developer from India</h3>
+<p>
+I am a developer interested in any form of programming. I am mostly self taught and have a very good grasp in WebDev and Python. I like to explore the new and upcoming technologies and try them out. I also learnt Blender, Unity, Unreal Engine as a hobby.
+
+As a full-stack developer with an expertise in Python, I like to build tools and utilities that could help in making the repetitive tasks easy. With expertise in both front-end and back-end technologies, I can build robust, scalable applications from the ground up. At the same time, I'm constantly exploring the latest advancements in machine learning and data science, using these tools to extract insights and drive innovation. Whether working independently or as part of a team, I'm always eager to tackle new challenges and push the boundaries of what's possible. Let's connect and explore how we can work together to create something truly exceptional.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamkris&label=Profile%20views&color=0e75b6&style=flat" alt="anupamkris" /> </p>
 
