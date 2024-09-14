@@ -8,11 +8,10 @@ As a full-stack developer with an expertise in Python, I like to build tools and
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamkris&label=Profile%20views&color=0e75b6&style=flat" alt="anupamkris" /> </p>
 
-- 🔭 I’m currently working on **a visual scripting for IOT devices**
 
 - 🌱 I’m currently learning **Svelte, TensorFlow**
 
-- 💬 Ask me about **React, Vue, OpenCV**
+- 💬 Ask me about **React, Vue, OpenCV, GenAI**
 
 - 📫 How to reach me **anupamkris13262@gmail.com**
 
