@@ -6,17 +6,12 @@ I am a software engineer, hardware tinkerer, and builder who loves exploring the
 * **My approach:** I build things to solve my own problems or to push a technology to its absolute limit.
 
 ---
-### 🎙️ [Windows Voice Assistant](https://github.com/YOUR-USERNAME/YOUR-REPO)
-[cite_start]A low-latency, hands-free Windows Copilot alternative built using **Google's Multimodal Live API**, **Tauri**, and **React**[cite: 41, 43]. [cite_start]It executes native system-level tasks and integrates with the Gmail API for advanced voice-composed email management[cite: 42].
+### 🎙️ [Windows Voice Assistant](https://github.com/anupamkris/winassist)
+A low-latency, hands-free Windows Copilot alternative built using **Google's Multimodal Live API**, **Tauri**, and **React**[cite: 41, 43]. [cite_start]It executes native system-level tasks and integrates with the Gmail API for advanced voice-composed email management
 
-### 🌿 [PyFlow](https://github.com/YOUR-USERNAME/YOUR-REPO)
-[cite_start]A visual scripting alternative version of Python built completely from scratch using **ReactJS** and advanced DOM manipulation to allow users to construct logical backend flows visually[cite: 47, 48].
+### 🌿 [PyFlow](https://github.com/anupamkris/pyflow)
+A visual scripting alternative version of Python built completely from scratch using **ReactJS** and advanced DOM manipulation to allow users to construct logical backend flows visually
 
-### 📑 [Research Assistant](https://github.com/YOUR-USERNAME/YOUR-REPO)
-[cite_start]An automated academic literature survey engine featuring intelligent paraphrasing, reference searching, and topic briefing powered by **LangChain**, **Gemini**, and **Typst** for beautifully formatted, typeset PDF outputs[cite: 38, 39, 40].
-
-### 🚗 [Vehicle Collision Detection System](https://github.com/YOUR-USERNAME/YOUR-REPO)
-[cite_start]A retrofittable deep learning and computer vision system designed to alert drivers of roadway distractions and oncoming collisions using depth estimation—built completely without LiDAR[cite: 44, 45]. [cite_start]Powered by **PyTorch**, **VueJS**, and **Python**[cite: 46].
 
 ## 📬 Let's Chat
 
