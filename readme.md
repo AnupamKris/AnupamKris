@@ -12,6 +12,9 @@ A low-latency, hands-free Windows Copilot alternative built using **Google's Mul
 ### 🌿 [PyFlow](https://github.com/anupamkris/pyflow)
 A visual scripting alternative version of Python built completely from scratch using **ReactJS** and advanced DOM manipulation to allow users to construct logical backend flows visually
 
+### 🎩 [Monopoly Banker](https://github.com/AnupamKris/monopoly-banker) | [Web](https://monopoly.anupamkris.dev)
+A real-time, digital banking companion for physical Monopoly board games built using React and hosted on Vercel. It replaces physical cash with a seamless digital ledger, allowing players to instantly transfer funds, manage properties, track transaction histories, and eliminate banker calculation errors.
+
 
 ## 📬 Let's Chat
 
