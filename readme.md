@@ -1,15 +1,29 @@
-<h1 align="center">Hi 👋, I'm Anupam Krishna</h1>
-<h3 align="center">A passionate developer from India</h3>
-<p>
-I am a passionate software engineer with a strong foundation in Artificial Intelligence and Data Science. While largely self-taught, I have developed a very good grasp in both Web Development (including Full Stack technologies like Next.js, React, Vue, Svelte, Nuxt, FastAPI, and PostgreSQL) and Python. I thrive on exploring and implementing new and upcoming technologies. Beyond core development, I enjoy delving into related fields as a hobby, having gained experience with Blender, Unity, and Unreal Engine.
+# Hey, I'm Anupam 🛠️
 
-As a versatile developer with expertise spanning full-stack development and Python, I am particularly interested in building tools and utilities that streamline repetitive tasks. My proficiency in both front-end and back-end technologies allows me to architect and build robust, scalable applications from concept to deployment, as demonstrated by my work on platforms like hiringday.ai. Concurrently, I am deeply engaged in exploring the latest advancements in machine learning and data science, leveraging these tools to extract insights and drive innovation in areas like GenAI and Agentic AI. I am always eager to tackle new challenges and push the boundaries of what's possible, whether working independently or as part of a team. Let's connect and explore how we can collaborate to create something truly exceptional.
-</p>
+I am a software engineer, hardware tinkerer, and builder who loves exploring the boundaries of Generative AI, robotics, and automation. When I'm not writing full-stack code, I'm usually building low-latency tools, visual scripting languages, or retrofitting vehicles with computer vision.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamkris&label=Profile%20views&color=0e75b6&style=flat" alt="anupamkris" /> </p>
+* **What I'm into:** Multimodal Live APIs, Agentic workflows, autonomous robotics, and sleek user interfaces.
+* **My approach:** I build things to solve my own problems or to push a technology to its absolute limit.
 
+---
+### 🎙️ [Windows Voice Assistant](https://github.com/YOUR-USERNAME/YOUR-REPO)
+[cite_start]A low-latency, hands-free Windows Copilot alternative built using **Google's Multimodal Live API**, **Tauri**, and **React**[cite: 41, 43]. [cite_start]It executes native system-level tasks and integrates with the Gmail API for advanced voice-composed email management[cite: 42].
 
-- 🌱 I’m currently learning **Posthog, Pydantic AI**
+### 🌿 [PyFlow](https://github.com/YOUR-USERNAME/YOUR-REPO)
+[cite_start]A visual scripting alternative version of Python built completely from scratch using **ReactJS** and advanced DOM manipulation to allow users to construct logical backend flows visually[cite: 47, 48].
+
+### 📑 [Research Assistant](https://github.com/YOUR-USERNAME/YOUR-REPO)
+[cite_start]An automated academic literature survey engine featuring intelligent paraphrasing, reference searching, and topic briefing powered by **LangChain**, **Gemini**, and **Typst** for beautifully formatted, typeset PDF outputs[cite: 38, 39, 40].
+
+### 🚗 [Vehicle Collision Detection System](https://github.com/YOUR-USERNAME/YOUR-REPO)
+[cite_start]A retrofittable deep learning and computer vision system designed to alert drivers of roadway distractions and oncoming collisions using depth estimation—built completely without LiDAR[cite: 44, 45]. [cite_start]Powered by **PyTorch**, **VueJS**, and **Python**[cite: 46].
+
+## 📬 Let's Chat
+
+If you want to talk about AI agents, computer vision, robotics, or open-source tech, feel free to reach out!
+
+* [cite_start]**Email:** [anupamkris13262@gmail.com](mailto:anupamkris13262@gmail.com) [cite: 3]
+* **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN](https://linkedin.com/in/YOUR-LINKEDIN)
 
 - 📫 How to reach me **anupamkris13262@gmail.com**
 
