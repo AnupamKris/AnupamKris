@@ -21,4 +21,4 @@ A real-time, digital banking companion for physical Monopoly board games built u
 If you want to talk about AI agents, computer vision, robotics, or open-source tech, feel free to reach out!
 
 * **Email:** [anupamkris13262@gmail.com](mailto:anupamkris13262@gmail.com)
-* **LinkedIn:** [linkedin.com/in/anupamkris](https://linkedin.com/in/anupamkris
+* **LinkedIn:** [linkedin.com/in/anupamkris](https://linkedin.com/in/anupamkris)
